@@ -103,7 +103,7 @@ The LangChain framework revolves around the following building blocks:
   use in RAG chain.
 
 ## 6. System Architecture
-
+     Refer Architecture_1.PNG and Architecture_2.PNG
 
 
 ## 7. Prerequisites
