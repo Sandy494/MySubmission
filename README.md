@@ -104,8 +104,7 @@ The LangChain framework revolves around the following building blocks:
 
 ## 6. System Architecture
 
-![](./images/arch1.png)
-![](./images/arch2.png)
+
 
 ## 7. Prerequisites
 
@@ -115,12 +114,3 @@ The LangChain framework revolves around the following building blocks:
   the
   OpenAI API.
 
-## 8. Running
-
-- Clone the github repository
-  ```shell
-  $ git clone https://github.com/SanjayaKumarSahoo/semantic-spotter-project.git
-  ```
-- Open
-  the [notebook](https://github.com/SanjayaKumarSahoo/semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
-  in jupyter and run all cells.
